@@ -15,8 +15,5 @@ hello yuanjiajian! hello git!!
 hello yuanjiajian! hello git!!
 hello yuanjiajian! hello git!!
 hello yuanjiajian! hello git!!
-<<<<<<< HEAD
 hello yuanjiajian! hello git!! master test
-=======
 hello yuanjiajian! hello git!! hot-fix test
->>>>>>> hot-fix
